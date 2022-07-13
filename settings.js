@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.vcardowner = ['+447441450082'] //ur owner number
+global.ownername = "‌✍🏻🥀🇳‌🇪‌🇦‌🇷🥀✍🏻" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.owner = ['+447441450082']
+global.ownertag = '+447441450082' //ur tag number
+global.botname = '‌🇱-‌🇱‌🇦‌🇼‌🇱‌🇮‌🇪‌🇹‌🇧‌🇴‌🇹' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "☘️‌L-LAWLIET☘️" //ur sticker watermark packname
+global.author = "🤞🏻RYUZUKI-L🤞🏻" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -106,19 +106,19 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    admin: '🔥آلآمـر للآدمـن فقطـ يـﮯسـطـآ🔥!',
+    botAdmin: '🙂آعمـل آلبوت آدمـن يـﮯسـطـآ🙂!',
+    owner: '😎آلآمـر للحآگمـ آلآعظـمـ فقطـ يـﮯسـطـآ😎!',
+    group: '🌺آلآمـر للگروبآت فقطـ يـﮯسـطـآ🌺!',
+    private: '🥀آلآمـر للشـآت آلخآصـ فقطـ يـﮯسـطـآ🥀!',
+    bot: '🔱آلآمـر خآصـ بآلبوت يـﮯسـطـآ🔱',
+    wait: '✍🏻يـﮯرجى آلآنتظـآر مـن فضـلگ✍🏻...',
+    linkm: 'ويـﮯن رآبطـگ يـﮯسـطـآ🗿?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    ban: 'لقد بلعت حظـر مـن آلبوت يـﮯسـطـآ😂آتگلمـ مـع صـآحبهہ‏‏ ليـﮯفگ آلحظـر😔.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    banChat: 'آلبوت بلعگمـ حظـر😂آتگلمـ مـع صـآحبهہ‏‏ ليـﮯفگ آلحظـر😎'
 }
     global.limitawal = {
     premium: "Infinity",
